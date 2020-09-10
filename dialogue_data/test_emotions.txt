@@ -1,0 +1,150 @@
+n	j	j	n	n	n	sa	sa	sa	n	j	n	n	n	j	j
+n	j	j	n	j	n	n	sa	j	n	n	j	n	n	n	n
+n	n	n	sa	n	j	n	j	n	sa	n	j	j	j	j	n
+n	n	n	n	n	sa	sa	j	n	j	j	n	j	n	j	n
+n	j	n	j	j	su	j	j	j	j	n	sa	j	n	j	j
+j	j	j	n	n	n	j	j	j	j	j	n	j	n	n	n
+j	j	n	n	j	n	f	j	sa	sa	n	sa	j	j	f	n
+n	n	j	n	j	j	n	j	n	n	su	su	su	n
+n	j	j	n	j	j	j	n	j	j	j	n	n	sa	d	j
+n	sa	j	j	su	n	n	n	j	sa	sa	sa	n	n	d	n
+n	n	n	n	d	f	n	n	n	n	j	j	n	n	j	j
+n	n	n	n	j	sa	sa	j	sa	j	sa	n	j	sa	j	j
+n	n	n	n	sa	n	n	sa	n	sa	n	n	n	n	n	n
+j	n	sa	n	n	n	j	n	n	j	j	n	j	n	su	n
+n	j	j	n	n	n	sa	n	j	n	n	n	n	j	j	n
+n	n	j	n	n	n	j	j	j	n	n	j	j	n	sa	n
+n	n	n	j	n	n	j	sa	n	n	sa	n	n	n	j	j
+n	n	n	j	n	n	j	n	n	n	sa	sa	n	n	n	sa
+sa	sa	sa	n	j	n	j	sa	j	n	n	sa	j	n	j	n
+n	n	n	n	n	j	j	n	j	j	n	n	n	j	n	n
+n	n	j	j	sa	sa	n	n	n	n	j	n	n	j	j	n
+n	j	sa	j	j	n	n	j	n	n	n	j	j	j	j	j
+n	n	n	j	sa	n	j	j	n	j	j	sa	sa	n	sa	sa
+n	n	n	j	n	j	n	sa	j	n	j	sa	j	j	j	j
+n	n	n	n	n	j	j	j	sa	j	j	sa	n	j	n	j
+j	sa	n	j	n	n	n	n	n	su	n	n	j	n
+n	j	n	sa	n	j	sa	j	j	j	n	j	j	n	n	n
+n	n	n	j	j	sa	j	j	n	j	n	j	j	n
+n	n	n	sa	n	n	sa	n	n	j	j	n	j	j	n	n
+j	sa	n	n	n	sa	j	n	j	j	n	j	n	sa
+n	j	n	j	f	n	n	j	n	j	j	n	n	n	n	j
+n	j	j	n	n	n	j	j	n	n	n	n	j	j	n	j
+n	n	j	j	n	n	n	n	j	n	n	j	n	n	n	j
+n	j	n	j	j	j	j	n	j	n	n	n	n	n	j	n
+n	n	n	n	su	n	j	n	j	sa	j	n	n	n	j	j
+n	j	j	j	n	j	sa	j	sa	j	j	n	n	j	j	n
+n	j	j	n	n	j	j	n	j	n	n	n	n	n	n	j
+n	sa	n	n	sa	j	n	j	n	n	sa	n	sa	j	n	n
+n	n	sa	n	j	j	j	n	j	su	j	n	n	n	j	su
+n	sa	n	n	su	d	n	d	n	sa	n	n	n	n	j	j
+n	j	n	n	n	n	n	n	n	j	n	n	n	su	n	n
+n	n	j	n	n	n	n	su	n	n	sa	j	n	n	n	j
+n	n	n	n	n	j	j	n	n	n	n	j	j	n
+n	j	j	j	j	n	sa	j	n	n	j	sa	n	j	n	n
+n	n	j	j	n	n	n	j	n	n	n	n	n	n	n	n
+j	n	j	j	j	j	j	j	n	n	n	n	n	j
+n	n	n	sa	n	j	j	j	n	j	j	j	n	n	j	n
+n	j	n	j	n	j	j	j	j	j	j	j	sa	n
+n	n	n	n	n	j	j	n	j	j	j	j	n	n	sa	j
+n	d	n	sa	sa	n	j	j	n	n	j	n	j	j	n	j
+n	n	j	n	n	n	j	n	n	n	n	n	n	n
+n	j	n	s	n	n	n	j	n	j	j	j	n	n	n	j
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	su	j	n	j	n	s	f	n	n	n	n
+n	n	n	n	n	n	n	n	s	n	n	n	n	f	f	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	j	n	n	n	s	j	n	j	n
+n	n	n	n	n	n	n	n	n	s	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	j	n	n	n	n	j	n	n
+n	n	su	n	j	n	j	j	j	n	j	n	j	n	s	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	s	s	n	n
+n	n	n	n	sa	n	n	n	n	n	n	n	n	n
+n	n	n	su	f	n	j	n	n	n	n	n	j	j	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	j	n	n	n
+n	j	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	j	n	j	n	n	n	n	su	n	su	j
+n	j	n	j	n	n	n	n	n	j	n	n	j	n	n	n
+n	n	n	n	n	n	su	n	f	n	j	n	n	j	n	n
+j	n	su	n	n	n	j	n	n	n	n	n	n	n
+n	n	n	j	n	su	n	j	n	n	n	n	n	n	n	sa
+n	n	n	n	n	n	n	j	n	n	j	n	n	n	n	n
+n	n	n	n	n	j	n	n	n	n	n	su	n	j	n	n
+n	n	n	n	n	n	n	n	j	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	s	n	n	n	n
+n	j	n	j	n	n	n	j	n	s	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	j	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	f	f	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	j	n	n	n	n	j	n	n
+n	n	n	n	n	su	n	n	n	j	n	n	n	j
+j	n	n	j	j	n	su	n	j	n	n	j	j	n	j	n
+n	n	n	n	n	n	n	n	n	n	n	j	n	n	n	n
+j	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+j	n	n	n	n	n	j	n	n	n	n	n	n	n	n	n
+j	n	n	n	n	n	n	n	n	n	n	n	n	n	j	n
+j	j	j	n	n	j	n	n	n	n	n	n	n	j
+n	d	s	n	n	n	n	n	n	n	n	n	n	n
+n	s	s	s	n	n	n	n	n	n	n	n	n	d
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	j
+j	j	j	n	n	j	j	j	n	n	n	n	n	n	j	j
+n	n	n	n	n	n	n	j	n	n	sa	j	n	n
+n	n	j	j	n	n	n	n	n	n	n	j	n	n	j	n
+n	n	n	n	n	n	n	n	n	n	sa	n	n	n	n	n
+n	n	n	j	n	j	n	j	n	j	n	j	su	s
+n	n	n	n	j	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	su	n	n	j	n	n	n	n	n	n
+n	sa	n	n	n	n	n	n	n	n	s	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	sa	n	n	n	j	n	n	n	n	n	n	n	n	j	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	su	n	su
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	a
+j	j	n	j	n	n	n	n	j	j	n	n	n	j	n	j
+n	j	n	n	n	sa	n	n	n	n	n	n	n	n	n	n
+n	j	n	n	n	n	n	n	n	j	n	n	n	j	n	n
+n	n	n	j	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	j	n	n	n	n	sa	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+j	n	j	j	n	n	n	j	n	n	j	j	n	j	j	j
+n	n	n	n	n	n	n	n	n	n	n	n	n	su	n	n
+n	n	n	n	j	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	sa
+j	n	n	n	n	n	j	n	n	n	n	n	n	n	n	n
+n	n	j	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	j	n	n	j	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+j	n	n	n	j	n	n	n	n	n	n	n	n	n	n	n
+n	j	n	n	n	n	n	sa	n	n	n	j	j	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	sa	n	n	n	n	sa	n	n	n
+n	sa	n	n	n	n	n	n	n	n	n	n	n	j
+n	j	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	j	n	n	n	n	n	n	n
+j	n	n	n	n	n	n	n	n	n	n	n	n	n	n	j
+n	n	n	n	n	n	j	n	j	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	j
+n	n	n	n	j	n	j	n	n	n	n	n	n	n	n	n
+n	n	j	n	n	n	n	n	n	n	n	n	n	j	n	sa
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	sa
+n	n	n	n	j	n	n	n	n	n	n	n	n	sa	n	n
+j	n	n	n	n	n	n	n	n	n	n	n	j	n	n	n
+j	sa	sa	sa	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	j	j	n	n	n	j	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	j	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+j	n	n	n	n	n	n	j	n	n	j	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	su	n	n	n
+n	j	n	n	n	n	n	n	n	n	n	n	j	n	n	n
+n	j	n	n	n	n	n	n	n	j	n	n	n	n	n	n
+n	n	sa	sa	n	n	n	n	n	n	n	j	n	n
+j	n	n	n	n	n	n	j	j	n	n	n	n	n
+n	j	n	n	n	n	n	j	n	n	n	n	n	n	n	n
+n	n	n	n	n	j	n	n	n	n	n	n	n	n	n	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	j	j	n
+n	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
+j	n	n	n	n	n	n	n	n	n	n	n	n	n	n	n
